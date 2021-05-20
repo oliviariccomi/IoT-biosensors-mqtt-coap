@@ -1,0 +1,3 @@
+Version2:
+- No descriptors, only different messages;
+- No SenMl method: separated in a SenMLMessage
