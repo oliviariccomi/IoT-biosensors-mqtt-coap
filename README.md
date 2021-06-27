@@ -77,5 +77,6 @@ The MQTT Publisher sends data to the following topics. In order to receive the d
 
 
 # Application overview
-![Schermata 2021-05-20 alle 22 48 16](https://user-images.githubusercontent.com/71649032/119047247-f082e600-b9bd-11eb-99e9-29be944e7f82.jpg)
+![Schermata 2021-06-27 alle 12 54 29](https://user-images.githubusercontent.com/71649032/123542147-3ca51100-d748-11eb-9aa0-7e5062735f2b.jpg)
+
 
